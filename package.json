@@ -1,0 +1,38 @@
+{
+  "name": "cc-deps",
+  "version": "1.0.0",
+  "description": "cc dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+	"dependencies": {
+    "babel-preset-dysonshell": "^1.0.2",
+    "bluebird": "^2.10.2",
+    "coexpress": "^3.0.1",
+    "conext": "^4",
+    "cookie-parser": "^1",
+    "ds-assets": "^1.0.3",
+    "ds-glob": "^1",
+    "ds-pack": "^2.2.3",
+    "ds-render": "^2.2.1",
+    "ds-require": "^1",
+    "express-favicon": "^1",
+    "express-state": "^1",
+    "http-proxy": "^1",
+    "lodash": "^3",
+    "promisingagent": "^5",
+    "serve-static": "^1.10.0",
+    "source-map-support": "^0.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/immissile/cc-deps.git"
+  },
+  "author": "Missile (@cc)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/immissile/cc-deps/issues"
+  },
+  "homepage": "https://github.com/immissile/cc-deps#readme"
+}
